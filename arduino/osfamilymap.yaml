@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+RedHat: {}
+Debian: {}
+Suse: {}
+Gentoo: {}
+Arch: {}
+Alpine: {}

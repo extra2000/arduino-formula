@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+x86_64:
+  package:
+    url: https://downloads.arduino.cc/arduino-1.8.13-linux64.tar.xz
+    checksum: sha256=1b20d0ec850a2a63488009518725f058668bb6cb48c321f82dcf47dc4299b4ad
