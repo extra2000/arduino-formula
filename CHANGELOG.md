@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://github.com/extra2000/arduino-formula/compare/v1.0.0...v1.0.1) (2021-04-11)
+
+
+### Documentations
+
+* **README:** Remove Fossa badge ([d9f24cc](https://github.com/extra2000/arduino-formula/commit/d9f24cc48e6bcbdb22a34195d6fd9974a390ecd4))
+
 ## 1.0.0 (2021-04-11)
 
 
